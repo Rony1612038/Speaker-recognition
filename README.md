@@ -1,4 +1,4 @@
-# Speaker Recognition Syestem
+# Speaker Recognition System
 To train the Machine Learing model, at first voice record dataset was generated. The Machine Learning model can recognise speakers with almost 99% accuracy.
 
 ## Dataset Description
